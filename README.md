@@ -3,7 +3,7 @@
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Mammoth-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-1.0.1-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
 
 &nbsp;
@@ -12,7 +12,7 @@ If you enjoyed this project — or just feeling generous, consider buying me a c
 
 
 **DISCLAIMER:**  
-This OpenCore EFI works fine on my Thinkpad T14 Gen 1.
+This OpenCore EFI works fine on my Thinkpad T14s Gen 1.
 I am not responsible for any damages you may cause.  
 Should you find an error or improve anything — whether in the config or in the documentation — please consider opening an issue or pull request.
 
