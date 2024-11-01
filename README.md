@@ -23,7 +23,7 @@ Should you find an error or improve anything — whether in the config or in the
 | Category  | Component                                  |
 | --------- | ------------------------------------------ |
 | CPU       | Intel(R) Core(TM) i7-10610U CPU @ 1.60GHz  |
-| GPU       | Intel UHD Graphics 630                     |
+| GPU       | Intel UHD Graphics 620                     |
 | SSD       | 500GB M.2 NVMe SSD                |
 | Memory    | 32GB DDR4 2666Mhz due CPU                  |
 | Camera    | 720p Camera + IR Camera                    |
