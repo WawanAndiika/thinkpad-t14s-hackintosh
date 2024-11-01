@@ -1,4 +1,4 @@
-# Lenovo ThinkPad T14 Gen 1 - OpenCore Configuration - macOS SONOMA 14.0
+# Lenovo ThinkPad T14s Gen 1 - OpenCore Configuration - macOS SONOMA 14.7
 
 <img align="right" src="/img/t14-gen-1-sonoma.png" alt="macOS Sonoma running on the T14 Gen 1" width="425">
 
