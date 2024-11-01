@@ -1,15 +1,10 @@
 # Lenovo ThinkPad T14s Gen 1 - OpenCore Configuration - macOS SONOMA 14.7
 
-<img align="right" src="/img/t14-gen-1-sonoma.png" alt="macOS Sonoma running on the T14 Gen 1" width="425">
-
 [![macOS](https://img.shields.io/badge/macOS-Sonoma-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Monterey-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![macOS](https://img.shields.io/badge/macOS-Mammoth-brightgreen.svg)](https://developer.apple.com/documentation/macos-release-notes)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 [![License](https://img.shields.io/badge/license-MIT-purple)](/LICENSE)
-
-<a href="https://paypal.me/askwakhid/"><img src="img/blue.svg" height="40"></a>
-<a href="https://trakteer.id/wakhid/"><img src="img/trakteer.png" height="40"></a>
 
 &nbsp;
 
@@ -45,7 +40,7 @@ Should you find an error or improve anything — whether in the config or in the
 
 | Software  | Version                                                       |
 | --------- | --------------------------------------------------------------|
-| [MacOS](https://www.apple.com/macos/)                            | 14.0  |
+| [MacOS](https://www.apple.com/macos/)                            | 14.7  |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)  | 1.0.1   |
 
 &nbsp;
