@@ -74,7 +74,6 @@ Should you find an error or improve anything — whether in the config or in the
 <summary><strong>⚠️ What's not working</strong></summary>
 </br>
 
-- [ ] HDMI
 - [ ] Internal Microphone, common issue laptop with Intel Smart Sound Technology ( Intel SST )
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 - [ ] AirDrop & Continuity
